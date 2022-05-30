@@ -1,0 +1,16 @@
+﻿  main.cpp
+  Tour.cpp
+C:\Users\q\source\repos\Gab\Gab\Tour.cpp(72,38): warning C4101: 't': unreferenced local variable
+C:\Users\q\source\repos\Gab\Gab\Tour.cpp(69): message : while compiling class template member function 'tip *TravelBusiness::list<tip>::get_data(int)'
+          with
+          [
+              tip=TravelBusiness::agreement
+          ]
+C:\Users\q\source\repos\Gab\Gab\Tour.cpp(339): message : see reference to function template instantiation 'tip *TravelBusiness::list<tip>::get_data(int)' being compiled
+          with
+          [
+              tip=TravelBusiness::agreement
+          ]
+C:\Users\q\source\repos\Gab\Gab\Tour.h(56): message : see reference to class template instantiation 'TravelBusiness::list<TravelBusiness::agreement>' being compiled
+  Generating Code...
+  Gab.vcxproj -> C:\Users\q\source\repos\Gab\Debug\Gab.exe
