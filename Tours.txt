@@ -1,0 +1,85 @@
+5
+Russia
+3
+Group_Moscow
+6
+Nikita Kolesnikov
+Oleg Nikolaev
+Chesbek Birykoc
+Nastya Ermolina
+Sergey Petrokov
+Berezda Nikiteva
+Group_Taganrog
+3
+Kolya Nikolaev
+Bekzod Aferov
+Mihail Ahmatov
+Group_Meleda
+7
+Kirill Antoshenko
+Daniil Danilov
+Petr Nikitenko
+Aleksey Bojenov
+Olesya Novikova
+Kirill Kirilov
+Semeryak Petrov
+Abhaziya
+5
+Group_Abhz1
+2
+Daniil Petrov
+Semeryak Petrov
+Group_Neznayka
+6
+Lydmila Severyanikova
+Daria Danilova
+Elizaveta Sergeeva
+Anastasia Chernaya
+Oleg Smetanin
+Franc Fridrih
+Melednyak_Group
+0
+Sezon_Leta
+9
+Oleg Stepushin
+Lina Alinova
+Alina Linova
+Sergey Alekseev
+Petr Sherbakov
+Olga Alashina
+Franc Fridrih
+Polsto Anost
+Semen Alinov
+Poslednya_Group
+4
+Berezda Nikiteva
+Ivan Ivanov
+Ivan Sergeev
+Elizaveta Konkova
+USA
+1
+ALLASSKAAA
+3
+Kolya Nikolaev
+Serb Shukov
+Kirill Nedolybov
+NewZeland
+2
+Olokodo
+2
+Franc Fridrih
+Franc Allegoc
+LoevBais
+3
+Chesbek Birykoc
+Nastya Ermolina
+Sergey Petrokov
+Alaska
+1
+EndOfTheWorld
+5
+Semen Alinov
+Serb Shukov
+Oleg Smetanin
+Chesbek Birykoc
+Daniil Danilov
